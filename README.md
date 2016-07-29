@@ -13,8 +13,14 @@ Contrairement à Symfony qui fournit (et impose) une architecture complète (dit
 Silex dispose d'une documentation en ligne assez complète. Dans ce tutoriel, nous allons nous contenter de l'utiliser pour afficher un simple message "Hello World" à l'utilisateur.
 
 
-En savoir + 
+En savoir + x
+
 https://openclassrooms.com/courses/premiers-pas-avec-le-framework-php-silex
 
 https://openclassrooms.com/courses/evoluez-vers-une-architecture-php-professionnelle/iteration-3-integration-du-framework-php-silex
+
+
+L'installation de Silex & DOC  http://silex.sensiolabs.org/doc/master/
+
+
 
